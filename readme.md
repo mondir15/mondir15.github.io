@@ -1,0 +1,37 @@
+# Portfolio de El Moundhir Benzeghioua
+
+Ce référentiel contient mon portfolio personnel en tant que développeur web, où je présente mes projets, mes compétences et mon parcours professionnel.
+
+## Présentation
+
+Mon portfolio est construit en utilisant les dernières technologies web, notamment HTML, CSS et JavaScript. Il met en valeur mes compétences en développement web, mes projets réalisés et mon expérience dans le domaine.
+
+## Structure du Répertoire
+
+Le répertoire du portfolio est structuré comme suit :
+
+- `index.html` : Page d'accueil du portfolio.
+- `css/` : Répertoire contenant les fichiers CSS pour le style et la mise en page.
+- `js/` : Répertoire contenant les fichiers JavaScript pour l'interactivité.
+- `img/` : Répertoire contenant les images utilisées dans le portfolio.
+
+
+## Utilisation
+
+1. Clonez ce référentiel sur votre machine locale.
+2. Ouvrez le fichier `index.html` dans votre navigateur web pour accéder au portfolio.
+
+## Projets
+
+Dans ce portfolio, j'ai inclus certains de mes projets les plus récents et significatifs. Chaque projet est présenté avec une description, des liens vers le code source et la démo en ligne. N'hésitez pas à explorer les différents projets pour voir mon travail.
+
+## Contributions
+
+Les contributions sont les bienvenues ! Si vous souhaitez apporter des améliorations, corriger des bugs ou proposer de nouveaux projets, n'hésitez pas à soumettre une demande de pull (pull request). J'apprécie toute forme de contribution.
+
+## Contact
+
+Si vous avez des questions, des commentaires ou si vous souhaitez discuter d'opportunités de collaboration, n'hésitez pas à me contacter .
+
+Merci d'avoir consulté mon portfolio !
+
